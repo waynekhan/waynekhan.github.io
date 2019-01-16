@@ -2,15 +2,15 @@
 
 This is my own cheatsheet to using Docker, your mileage will vary.
 
-I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/); over time I saved several URLs on https://docs.docker.com/ too.
+I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/): it consists of 8 hours of video, across 13 sections, it provides a lot more context than I bothered below.
 
 ## Builds
 
-Sample Dockerfile:
+Sample `Dockerfile`:
 
     FIXME: Include the contents of alpython/Dockerfile?
 
-Build an image:
+Build the `alpython` image; i.e., Alpine + Python:
 
     $ docker build -q -t alpython:0.1 .
     sha256:80df45761397e7391ddfa50903fab79b09b0ab398feb6fd9f67663bf1e7bdf83
