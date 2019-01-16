@@ -1,9 +1,8 @@
 # Docker cheatsheet
 
-I learnt a lot
+This is my own cheatsheet to using Docker, your mileage will vary.
 
-* https://www.udemy.com/docker-for-professionals-the-practical-guide/
-* https://rominirani.com/docker-tutorial-series-a7e6ff90a023
+I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/); over time I saved several URLs on https://docs.docker.com/ too.
 
 ## Builds
 
