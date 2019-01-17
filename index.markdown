@@ -9,7 +9,7 @@ My workflow is something like:
 1. Create/edit drafts locally using a good text editor;
 1. Copy-paste into a new WordPress post, and then hit Publish.
 
-In other words, I hardly use WordPress like its designers intended. Sometimes I want to format text in __bold__, _italics_, or even `code`, these don't carry over, which is somewhat dissatisfying: I guess it was inevitable that I'd migrate.
+In other words, I hardly use WordPress like its designers intended. Sometimes I want to format text in __bold__, _italic_, or even `code`, these don't carry over, which is somewhat dissatisfying: I guess it was inevitable that I'd migrate.
 
 Anyhow, of late I've been using [Markdown](https://daringfireball.net/projects/markdown/syntax) to write technical documentation. It's like a simplified version of HTML. HTML is... too verbose. There are opening tags and closing tags, it gets in the way of actual content.
 
