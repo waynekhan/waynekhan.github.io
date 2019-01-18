@@ -1,12 +1,9 @@
-# Home
-_18/1/2019_
-
-## Posts
+Hi there, thanks for visiting. You might want to check out some of my past content, then:
 
 * [Docker cheatsheet](/docker-cheatsheet)
 * [2019 Happy New Year!](/2019-happy-new-year/)
 
-## Off-site content
+I maintain an online presence elsewhere on the internet, see:
 
-* [Wayne on LinkedIn](https://www.linkedin.com/in/waynekhan)
-* [Wayne on WordPress](https://kzhiwei.wordpress.com/)
+* [LinkedIn](https://www.linkedin.com/in/waynekhan)
+* [Defunct WordPress blog](https://kzhiwei.wordpress.com/)
