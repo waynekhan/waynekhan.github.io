@@ -1,4 +1,12 @@
 # Home
 _18/1/2019_
 
-I'm into Docker at the moment, and did up my own [cheatsheet](/docker-cheatsheet) which you might find useful then.
+## Posts
+
+* [Docker cheatsheet](/docker-cheatsheet)
+* [2019 Happy New Year!](/2019-happy-new-year/)
+
+## Off-site content
+
+* [Wayne on LinkedIn](https://www.linkedin.com/in/waynekhan)
+* [Wayne on WordPress](https://kzhiwei.wordpress.com/)
