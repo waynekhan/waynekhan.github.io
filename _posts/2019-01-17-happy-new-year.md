@@ -1,5 +1,7 @@
-# Happy New Year!
-_17/1/2019_
+---
+layout: post
+title: Happy New Year!
+---
 
 A new year, a new blog then!
 
