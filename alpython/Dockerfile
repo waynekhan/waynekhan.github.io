@@ -9,11 +9,11 @@ LABEL base.version=$VERSION
 
 # Run this container as a non-root user (worker).
 RUN addgroup -g 3000 -S worker \
-  && adduser -G worker -S worker
+    && adduser -G worker -S worker
 
 # Install Python.
 RUN apk update \
-  && apk add python
+    && apk add python
 
 # Execute "python -v" at run time.
 CMD ["-v"]

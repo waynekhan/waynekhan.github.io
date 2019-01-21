@@ -5,7 +5,7 @@ ENV JEKYLL_BASE="/home/worker/jekyll"
 
 # Run this container as a non-root user (worker).
 RUN groupadd --gid 3000 worker \
-  && useradd -g worker worker
+    && useradd -g worker worker
 
 RUN mkdir JEKYLL_BASE
 COPY . JEKYLL_BASE
