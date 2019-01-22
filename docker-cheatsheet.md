@@ -8,6 +8,42 @@ This is my own cheatsheet to using Docker, your mileage will vary.
 
 I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/): it consists of 8 hours of video, across 13 sections, it provides a lot more context than I bothered below.
 
+## Registries
+
+Pull alpine off [Docker Hub](https://hub.docker.com/):
+
+    $ docker pull alpine:latest
+    latest: Pulling from library/alpine
+    Digest: sha256:46e71df1e5191ab8b8034c5189e325258ec44ea739bba1e5645cff83c9048ff1
+    Status: Downloaded newer image for alpine:latest
+
+Search [Quay](https://quay.io) for alpine:
+
+    $ docker search quay.io/alpine
+
+Search for a named image:
+
+    $ docker search mysql
+    NAME                                   DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+    alpine                                 A minimal Docker image based on Alpine Linux…   4844                [OK]
+
+Use `registry` to host a private registry:
+
+    $ docker run -d -p 5000:5000 --restart=always --name private-registry registry
+
+Tag, push, and pull `alpine` to `private-registry`:
+
+    $ docker tag alpine localhost:5000/waynekhan/alpine
+    $ docker push localhost:5000/waynekhan/alpine
+    The push refers to repository [localhost:5000/waynekhan/alpine]
+    7bff100f35cb: Pushed
+    latest: digest: sha256:3d2e482b82608d153a374df3357c0291589a61cc194ec4a9ca2381073a17f58e size: 528
+    $ docker images | grep alpine
+    alpine                            latest              3f53bb00af94        4 weeks ago         4.41MB
+    localhost:5000/waynekhan/alpine   latest              3f53bb00af94        4 weeks ago         4.41MB
+    $ docker run -it --rm localhost:5000/waynekhan/alpine
+    # exit
+
 ## Builds
 
 {% gist 3a555116a44fadbb4d61ff1f37edf71e %}
@@ -27,24 +63,7 @@ Build the `alpython` image using the above `Dockerfile`:
 
 ## Images
 
-Pull alpine off [Docker Hub](https://hub.docker.com/):
-
-    $ docker pull alpine:latest
-    latest: Pulling from library/alpine
-    Digest: sha256:46e71df1e5191ab8b8034c5189e325258ec44ea739bba1e5645cff83c9048ff1
-    Status: Downloaded newer image for alpine:latest
-
-Search [Quay](https://quay.io) for alpine:
-
-    $ docker search quay.io/alpine
-
-Search for a named image:
-
-    $ docker search mysql
-    NAME                                   DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
-    alpine                                 A minimal Docker image based on Alpine Linux…   4844                [OK]                
-
-List local images:
+List (local) images:
 
     $ docker images
     REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
