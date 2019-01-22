@@ -6,4 +6,4 @@ To build:
 
 To run:
 
-    $ docker run -it -p 4000:4000 jekyll
+    $ docker run -it -p 4000:4000 --rm jekyll
