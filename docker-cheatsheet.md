@@ -4,13 +4,15 @@ title: Docker Cheatsheet
 permalink: /docker-cheatsheet
 ---
 
-This is my own cheatsheet to using Docker, your mileage will vary.
+This is my personal cheatsheet to using Docker, your mileage will vary.
 
-I got a lot of value from [this Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/): it consists of 8 hours of video, across 13 sections, it provides a lot more context than I bothered below.
+I got a lot of value from [this paid Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/): it consists of 8 hours of video, including a final project which I skipped. Instead, I developed what you're reading now, part of my new GitHub Pages-based blog.
+
+If you're the adventurous sort, all my content is available as a [public Github repo](https://github.com/waynekhan/waynekhan.github.io) and linked to a [public Docker Hub repo](https://cloud.docker.com/repository/docker/waynekhan/waynekhan.github.io) too; i.e., every `git push` triggers an automated `docker build` on Docker Hub's infrastructure so it's clear if I broke anything. Heh
 
 ## Registries
 
-Pull alpine off [Docker Hub](https://hub.docker.com/):
+Pull `alpine` off [Docker Hub](https://hub.docker.com/):
 
     $ docker pull alpine:latest
     latest: Pulling from library/alpine
