@@ -1,9 +1,10 @@
 # README.md
 
-To build:
+Published on [Docker Hub](https://cloud.docker.com/u/waynekhan/repository/docker/waynekhan/waynekhan.github.io):
 
-    $ docker build -t jekyll .
+    $ docker run -it -p 4000:4000 --rm waynekhan/waynekhan.github.io
 
-To run:
+Alternatively, `git clone` and `docker build`, `docker run` locally:
 
-    $ docker run -it -p 4000:4000 --rm jekyll
+    $ docker build -t waynekhan.github.io .
+    $ docker run -it -p 4000:4000 --rm waynekhan.github.io

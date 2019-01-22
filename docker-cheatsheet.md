@@ -23,6 +23,8 @@ Build the `alpython` image using the above `Dockerfile`:
     >>> print "hi"
     hi
 
+[ONBUILD](https://docs.docker.com/engine/reference/builder/#onbuild), useful when developing a parent `Dockerfile`.
+
 ## Images
 
 Pull alpine off [Docker Hub](https://hub.docker.com/):
