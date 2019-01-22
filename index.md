@@ -16,4 +16,5 @@ Hello, thanks for visiting. You might want to check out some of my content then:
 
 ## Pages
 
-* [Docker cheatsheet](/docker-cheatsheet)
+* [About Wayne](/about)
+* [Docker Cheatsheet](/docker-cheatsheet)

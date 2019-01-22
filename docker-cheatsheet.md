@@ -1,4 +1,4 @@
-# Docker cheatsheet
+# Docker Cheatsheet
 
 This is my own cheatsheet to using Docker, your mileage will vary.
 
