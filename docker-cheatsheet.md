@@ -1,4 +1,8 @@
-# Docker Cheatsheet
+---
+layout: default
+title: Docker Cheatsheet
+permalink: /docker-cheatsheet
+---
 
 This is my own cheatsheet to using Docker, your mileage will vary.
 
@@ -8,7 +12,7 @@ I got a lot of value from [this Docker course published on Udemy](https://www.ud
 
 {% gist 3a555116a44fadbb4d61ff1f37edf71e %}
 
-Build the `alpython` image; i.e., Alpine + Python:
+Build the `alpython` image using the above `Dockerfile`:
 
     $ docker build -q -t alpython:0.1 .
     sha256:80df45761397e7391ddfa50903fab79b09b0ab398feb6fd9f67663bf1e7bdf83
@@ -61,12 +65,16 @@ Load from `foo.tar`:
     $ docker load -i foo.tar
     Loaded image: alpine:latest
 
-Remove images:
+Remove a named image:
 
     $ docker rmi alpine
     Untagged: alpine:latest
     Untagged: alpine@sha256:46e71df1e5191ab8b8034c5189e325258ec44ea739bba1e5645cff83c9048ff1
     Deleted: sha256:3f53bb00af943dfdf815650be70c0fa7b426e56a66f5e3362b47a129d57d5991
+
+Remove all dangling images:
+
+    $ docker prune image
 
 Determine changes made to a named container. Envvars will not show up in `docker diff`, though:
 
@@ -302,6 +310,10 @@ Mount the current directory in a container:
     PID   USER     TIME  COMMAND
         1 root      0:00 tail -f /dev/null
         6 root      0:00 ps -aef
+
+Prune stopped containers:
+
+    $ docker container prune
 
 ## Networks
 
