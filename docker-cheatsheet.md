@@ -4,11 +4,13 @@ title: Docker Cheatsheet
 permalink: /docker-cheatsheet
 ---
 
+# Docker Cheatsheet
+
 I developed this document as part of my new [GitHub Pages blog](https://github.com/waynekhan/waynekhan.github.io/deployments). It's is my personal cheatsheet to using Docker, your mileage will vary.
 
 I got a lot of value from [this paid Docker course published on Udemy](https://www.udemy.com/docker-for-professionals-the-practical-guide/). Midway through, I realized that it was relatively easy to containerize the entire blog, and [so I did](https://cloud.docker.com/repository/docker/waynekhan/waynekhan.github.io).
 
-# Registries
+## Registries
 
 Pull `alpine` off [Docker Hub](https://hub.docker.com/):
 
@@ -44,7 +46,7 @@ Tag, push, and pull `alpine` to `private-registry`:
     $ docker run -it --rm localhost:5000/waynekhan/alpine
     # exit
 
-# Builds
+## Builds
 
 {% gist 3a555116a44fadbb4d61ff1f37edf71e %}
 
@@ -61,7 +63,7 @@ Build the `alpython` image using the above `Dockerfile`:
 
 [ONBUILD](https://docs.docker.com/engine/reference/builder/#onbuild), useful when developing a parent `Dockerfile`.
 
-# Images
+## Images
 
 List (local) images:
 
@@ -118,7 +120,7 @@ Save a container as an image, including any envvars:
     foo=bar
     HOME=/root
 
-# Containers
+## Containers
 
 Create a non-running container:
 
@@ -336,7 +338,7 @@ Prune stopped containers:
 
     $ docker container prune
 
-# Networks
+## Networks
 
 https://docs.docker.com/network/
 
@@ -451,7 +453,7 @@ Expose a container port to other containers only:
     FOO_NAME=/bar/foo
     HOME=/root    
 
-# Bind mounts
+## Bind mounts
 
 https://docs.docker.com/storage/bind-mounts/
 
@@ -462,7 +464,7 @@ Mount the host's working directory as `/mnt` in a container:
     Desktop        Library        Pictures
     Documents      Movies         Public
 
-# Volumes
+## Volumes
 
 https://docs.docker.com/storage/volumes/
 
@@ -505,7 +507,7 @@ Remove a volume:
     $ docker volume rm 9308fe3116b64e1733d9601c3f06deb41b852d86a203a70927c9477cf00a4d21
     9308fe3116b64e1733d9601c3f06deb41b852d86a203a70927c9477cf00a4d21
 
-# Constraints
+## Constraints
 
 https://docs.docker.com/config/containers/resource_constraints/
 

@@ -4,9 +4,11 @@ title: Home
 permalink: /
 ---
 
+# Wayne Khan
+
 Hello, thanks for visiting! You might want to check out some of my content:
 
-# Posts
+## Posts
 
 <ul>
   {% for post in site.posts %}
@@ -16,7 +18,7 @@ Hello, thanks for visiting! You might want to check out some of my content:
   {% endfor %}
 </ul>
 
-# Pages
+## Pages
 
 * [Docker Cheatsheet](/docker-cheatsheet)
 * [About Wayne](/about)

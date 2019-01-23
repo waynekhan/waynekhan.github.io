@@ -3,9 +3,11 @@ layout: default
 title: Happy New Year!
 ---
 
+# Happy New Year!
+
 A new year, a new blog then!
 
-I've been a long-time WordPress user, writing (very occasionally) on [kzhiwei.wordpress.com](https://kzhiwei.wordpress.com/).
+I've been a long-time WordPress user, previously writing at [kzhiwei.wordpress.com](https://kzhiwei.wordpress.com/).
 
 My current workflow is:
 
