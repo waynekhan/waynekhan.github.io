@@ -1,10 +1,12 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
 
-Hello, thanks for visiting. You might want to check out some of my content then:
+Hello, thanks for visiting! You might want to check out some of my content:
 
-## Posts
+# Posts
 
 <ul>
   {% for post in site.posts %}
@@ -14,7 +16,7 @@ Hello, thanks for visiting. You might want to check out some of my content then:
   {% endfor %}
 </ul>
 
-## Pages
+# Pages
 
-* [About Wayne](/about)
 * [Docker Cheatsheet](/docker-cheatsheet)
+* [About Wayne](/about)
