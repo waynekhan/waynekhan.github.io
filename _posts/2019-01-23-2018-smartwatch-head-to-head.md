@@ -11,11 +11,7 @@ Of late I've come to use two very different kinds of (smart)watch. Currently I p
 
 __2018 Apple Watch Sport Series 4 (40 mm)__. Apple's device sports a beautiful, fully digital face, and must be paired with iPhone. Apple Watch is pretty much an iPhone for the wrist, supporting such things as making and receiving calls, text messages, and turn-by-turn navigation. Good thing for us is that the Watch can also function as a heart rate sensor and pedometer.
 
-![Apple Watch]({{ site.url }}/assets/40-alu-space-nike-sport-anth-black-nc-s4-1up.png)
-
 __2018 Withings Steel HR Sport (40 mm)__. Withings bills the Steel HR Sport as a hybrid smartwatch; i.e., it's _mostly_ an analog face, and won't be able to do most of the things Apple Watch does. However, it's supposed to be health-focused, so heart rate sensing and step tracking? Check. It even does sleep tracking, although I prefer not to wear an electronic device to bed.
-
-![Withings Steel HR Sport]({{ site.url }}/assets/steel-hr-sport-40w.jpg)
 
 ## Companions
 
