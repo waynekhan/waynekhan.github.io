@@ -92,4 +92,6 @@ Winner: Apple (tied at 3-3).
 
 ## Summary
 
-At 3-3, I think both devices are very different _kinds_ of smartwatch so try before you buy!
+Overall, these are very different _kinds_ of smartwatch, and tied at 3-3, are both excellent devices in their own regard. (In my mind, at least.)
+
+Wearables have matured tremendously over the past few years, and it really depends on what kind of device you might consider for your personal use case. Fitness tracker? Hybrid smartwatch, like the Withings Steel HR Sport? Full-fledged smartwatch, like the Apple Watch? Check, check, and check.
