@@ -9,9 +9,11 @@ Of late I've come to use two very different kinds of (smart)watch. Currently I p
 
 ## The Contenders
 
-__2018 Apple Watch Sport Series 4 (40 mm)__. Apple's device sports a beautiful, fully digital face, and must be paired with iPhone. Apple Watch is pretty much an iPhone for the wrist, supporting such things as making and receiving calls, text messages, and turn-by-turn navigation. Good thing for us is that the Watch can also function as a heart rate sensor and pedometer.
+__2018 Apple Watch Nike+ Series 4 (44 mm)__. Apple's device sports a beautiful, fully digital face, and must be paired with iPhone. Apple Watch is pretty much an iPhone for the wrist, supporting such things as making and receiving calls, text messages, and turn-by-turn navigation. Good thing is that the Watch can also function as a heart rate sensor and pedometer.
 
-__2018 Withings Steel HR Sport (40 mm)__. Withings bills the Steel HR Sport as a hybrid smartwatch; i.e., it's _mostly_ an analog face, and won't be able to do most of the things Apple Watch does. However, it's supposed to be health-focused, so heart rate sensing and step tracking? Check. It even does sleep tracking, although I prefer not to wear an electronic device to bed.
+__2018 Withings Steel HR Sport (40 mm)__. Withings bills the Steel HR Sport as a hybrid smartwatch; i.e., it's _mostly_ an analog face, and won't be able to do most of the things Apple Watch does. However, it's supposed to be health-focused, so heart rate sensing and step tracking? Check.
+
+![The watches, side by side.]({{ site.url }}/assets/IMG_6381.jpeg)
 
 ## Companions
 
@@ -21,24 +23,26 @@ I paired the devices to a different iPhone 8 running an up-to-date version of iO
 
 Following is a curated list of device specifications:
 
-||2018 Apple Watch Sport Series 4 (40 mm)|Withings Steel HR Sport (40 mm)
+||2018 Apple Watch Nike+ Series 4 (44 mm)|Withings Steel HR Sport (40 mm)
 |-------------|-------------|-------------
 |Maker|Apple|Withings
 |Release date|2018|2018
-|Price (USD)|399|199.95
+|Price (USD)|429|199.95
 |Face shape|Rounded rectangle|Circle
 |Display|Digital|Mostly analog
 |Case materials|Aluminum/Glass|Stainless steel/Glass
 |Band material|Fluoroelastomer|Silicone
-|Dimensions|40 mm (40 mm x 34 mm 10.7 mm)|40 mm (39.5 mm x 39.5 mm x 12.5 mm)
-|Weight|30.1g|49g
+|Dimensions|44 mm (44 mm x 38 mm 10.7 mm)|40 mm (39.5 mm x 39.5 mm x 12.5 mm)
+|Weight|36.7g|49g
 |Battery life|Up to 18 hours|Up to 25 days
 |Water resistance|50 m|50 m
 |Steps tracking|Continuous|Continuous
 
+Apple also sells a smaller (40 mm) version for $399, but I prefer the look of a larger watch. The Steel HR Sport comes in only one size (40 mm).
+
 ## Price
 
-Apple Watch costs twice as much, albeit it is a full-fledged smartwatch with features and functionality far above the Steel HR Sport.
+Apple Watch is much more expensive, albeit it is a full-fledged smartwatch with features and functionality far above the Steel HR Sport.
 
 Winner: 1-0 to Withings.
 
