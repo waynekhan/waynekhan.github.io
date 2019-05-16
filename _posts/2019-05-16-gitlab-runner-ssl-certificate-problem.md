@@ -32,4 +32,4 @@ check_interval = 0
   [runners.cache]
 ```
 
-Check out https://gitlab.com/gitlab-org/gitlab-runner/issues/2795 for more details.
+Check out [https://gitlab.com/gitlab-org/gitlab-runner/issues/2795](https://gitlab.com/gitlab-org/gitlab-runner/issues/2795) for more details.
