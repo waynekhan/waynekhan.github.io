@@ -12,4 +12,4 @@ Elsewhere on the internet...
 * [Docker Hub](https://hub.docker.com/u/waynekhan)
 * [GitHub](https://github.com/waynekhan)
 * [LinkedIn](https://www.linkedin.com/in/waynekhan)
-* [WordPress](https://kzhiwei.wordpress.com/)
+* [WordPress](https://kzhiwei.wordpress.com)
