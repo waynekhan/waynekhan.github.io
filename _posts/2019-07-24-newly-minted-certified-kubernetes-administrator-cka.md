@@ -51,7 +51,7 @@ It's possible to configure `kubelet` with Pod manifests (e.g., `/etc/kubernetes/
 
 To take a snapshot of your `etcd`, use `etcdctl snapshot save --endpoints= --cacert= --cert= --key=`, with the last 4 arguments having values specific to your cluster. See [https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/).
 
-Carefully inspect the output of `systemctl status kubelet` if you're seeing a `NotReady` node, it might be because the 
+Carefully inspect the output of `systemctl status kubelet`. If you're seeing a `NotReady` node, it mght be because the `kubelet.service` file references a config file -- there are multiple! -- that doesn't exist, so it's just a matter of correcting the filepath/name, and perhaps grabbing a copy off a node that you already know works.
 
 ## References
 
