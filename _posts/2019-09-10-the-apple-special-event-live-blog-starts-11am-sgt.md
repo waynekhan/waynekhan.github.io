@@ -47,7 +47,7 @@ New SoC, the A13 Bionic.
 
 iPhone 11 from $699 USD.
 
-iPhone 11 Pro, new design.
+"iPhone 11 Pro", new design?
 
 Stainless steel (vs. aluminum for the 11) with a matte finish, 4 colours.
 
@@ -58,3 +58,5 @@ Stainless steel (vs. aluminum for the 11) with a matte finish, 4 colours.
 Triple-camera system, additional telephoto lens.
 
 Computation photography, named "Deep Fusion". Will be made available as a software update later this year.
+
+$999/$1099 USD.
