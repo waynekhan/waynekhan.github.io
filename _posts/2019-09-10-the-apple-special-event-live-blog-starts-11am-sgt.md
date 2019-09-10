@@ -67,13 +67,13 @@ Stainless steel (vs. aluminum) with a matte finish, 4 colours.
 
 5.8" or 6.5" displays; i.e., Super Retina XDR.
 
-[Meaningful battery life improvements, 4, or is it 5 hours more..?]
+Meaningful battery life improvements, 4, or is it 5 hours more..?
 
 Triple-camera system, additional telephoto lens.
 
 Computation photography, named "Deep Fusion". Will be made available as a software update later this year.
 
-[Segment about ML/power efficiency.]
+Segment about ML/power efficiency.
 
 Starting at $999/$1099 USD.
 
