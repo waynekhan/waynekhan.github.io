@@ -5,58 +5,78 @@ title: The Apple Special Event Live Blog (Starts at 1AM SGT)
 
 # The Apple Special Event Live Blog (Starts at 1AM SGT)
 
-[Anything prior?]
+Anything prior? (By the time I started watching, the speaker was onstage talking about the new Apple Arcade section of the App Store.)
 
-Apple Arcade games (i.e., Frogger, Sayonara Wild Hearts) look really great, in particular, _Sayonara Wild Hearts_.
+## Arcade
 
-It'll be a paid subscription service launching September 19 for $4.99 USD, and there'll be a one month free trial.
+Apple Arcade games (i.e., Frogger, Sayonara Wild Hearts) look really great, in particular, _Sayonara Wild Hearts_ with its psychedelic art style.
 
-Worldwide premier trailer for _SEE_ (e.g., Jason Momoa).
+Apple Arcade will be a paid subscription service launching September 19 for $4.99 USD, and there'll be a one month free trial.
 
-Apple TV+ will be a paid subscription service launching November 1 for $4.99 USD.
+## TV+
 
-[One year subscription for free?]
+Worldwide premier trailer for SEE.
 
-Greg onstage. The new next generation iPad (2019) has a larger screen (10.2" screen), support for Apple Pencil, the Smart Connector, and iPadOS -- which has yet to launch. Presumably it'll make the switch to USB too.
+Apple TV+ will be a paid subscription service launching November 1 for $4.99 USD (including SEE), with a year-long subscription free with any new device purchases.
 
-Stan onstage to introduce the next generation Apple Watch (Series 5) with an Always-On Retina Display, wow!!
+## iPad
+
+Greg onstage. The next generation iPad (2019) has a larger screen (10.2" screen), support for Apple Pencil, the Smart Connector, and iPadOS -- which has yet to launch. Presumably it'll make the switch to USB too.
+
+## Watch
+
+Stan onstage to introduce the next generation Apple Watch (Series 5) with an Always-On Retina Display, wow!
 
 Compass: it doesn't look like anything.
 
 Safety: Every cellular model will now be able to call emergency services -- international -- with a button press.
 
-New materials: aluminium is 100% recycled, titanium, and ceramic.
+Also, new materials: aluminium is now 100% recycled -- just like its newer macOS products, and there's also titanium and ceramic.
 
-Pricing: $399 USD for GPS models, and $499 for cellular.
+Nike+?
 
-Series 3's price has been reduced -- starts from $199 USD. Presumably, Series 4 (i.e., my watch) is obsolete then.
+Hermes?
 
-"iPhone 11", the new generation of iPhone with 6 new colours.
+Pricing: $399 USD for GPS models, $499 for the cellular option, and presumably more for titanium/ceramic.
 
-6.1" Liquid Retina, unchanged from 10R (I believe).
+Series 3's price reduction, starts from $199 USD. Presumably, Series 4 (i.e., my watch) rendered obsolete.
 
-Dual-camera system: wide/ultra wide cameras, great for landscapes and closeups without actually having to physically move forward (or backwards).
+## iPhone
 
-Automatic Night mode, by default.
+"iPhone 11", the new generation with 6 new colours.
 
-[Various improvements geared towards video capture.]
+6.1" Liquid Retina -- unchanged from 10R?
+
+Dual-camera system: wide/ultra wide cameras, great for landscapes and closeups too.
+
+Night mode always-on.
+
+Various improvements geared towards video capture.
 
 Wide angle for the front camera too -- rotate to have get more people in-frame.
 
 New SoC, the A13 Bionic.
 
-iPhone 11 from $699 USD.
+iPhone 11, from $699 USD.
+
+## iPhone (Pro)
 
 "iPhone 11 Pro", new design?
 
-Stainless steel (vs. aluminum for the 11) with a matte finish, 4 colours.
+Stainless steel (vs. aluminum) with a matte finish, 4 colours.
 
 5.8" or 6.5" displays; i.e., Super Retina XDR.
 
-[Significant battery life improvements, 4, or is it 5 hours more..?]
+[Meaningful battery life improvements, 4, or is it 5 hours more..?]
 
 Triple-camera system, additional telephoto lens.
 
 Computation photography, named "Deep Fusion". Will be made available as a software update later this year.
 
-$999/$1099 USD.
+[Segment about ML/power efficiency.]
+
+Starting at $999/$1099 USD.
+
+## Retail
+
+Fifth Avenue store relaunches September 22.
