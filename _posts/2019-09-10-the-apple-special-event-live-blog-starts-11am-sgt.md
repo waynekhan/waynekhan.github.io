@@ -21,4 +21,8 @@ Sumbul onstage to talk about various health studies enabled by Apple Watch (e.g.
 
 Stan onstage to introduce the next generation Apple Watch (Series 5) with an Always-On Retina Display. Talks about the various screen innovations required in pursuit of this, whilst maintaining the same battery life.
 
-Compass.
+Compass: it doesn't look like anything. Safety: Every cellular model will now be able to call emergency services -- international -- with a button press.
+
+New materials: aluminium is 100% recycled, titanium, and ceramic.
+
+Pricing: $399 USD for GPS models, and $499 for cellular. Series 3's price has been reduced -- starts from $199 USD. Presumably, Series 4 (i.e., my watch) is obsolete then.
