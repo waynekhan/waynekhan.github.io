@@ -17,7 +17,7 @@ Apple TV+ will be a paid subscription service launching November 1 for $4.99 USD
 
 One year subscription for free?
 
-Greg onstage to talk about the existing iPad (2018) and its successor, the new next generation iPad (2019) with a larger screen (10.2" screen), support for Apple Pencil, the Smart Connector, and iPadOS -- which has yet to launch. What connector does it use? Lightning, or USB-C, though?
+Greg onstage. The new next generation iPad (2019) has a larger screen (10.2" screen), support for Apple Pencil, the Smart Connector, and iPadOS -- which has yet to launch. What connector does it use? Lightning, or USB-C, though?
 
 Stan onstage to introduce the next generation Apple Watch (Series 5) with an Always-On Retina Display, wow!!
 
@@ -42,3 +42,13 @@ Automatic Night mode, by default.
 Various improvements about video-taking improvements.
 
 Wide angle for the front camera too -- rotate to have get more people in-frame.
+
+New SoC, the A13 Bionic.
+
+iPhone 11 from $699 USD.
+
+iPhone 11 Pro, new design.
+
+Stainless steel (vs. aluminum for the 11) with a matte finish, 4 colours.
+
+5.8" or 6.5" displays; i.e., Super Retina XDR.
