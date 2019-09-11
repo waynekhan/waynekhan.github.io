@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Hello, thanks for visiting! You might want to check out some of my content:
+Hello, thanks for visiting! You may want to check out some of my content (list below), or get an [RSS feed](https://waynekhan.net/feed.xml) for your favourite RSS reader.
 
 # Posts
 
