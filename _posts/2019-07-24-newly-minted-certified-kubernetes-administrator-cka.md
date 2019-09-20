@@ -26,13 +26,12 @@ A couple of people -- nerds, really -- asked me about it, so I thought I'd write
 
 The [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) is a handy collection of tips; e.g.,
 
-Don't waste time typing out `kubectl` in full -- just use your new `k` alias defined below, and please enable Tab auto-completion (of resource names):
+Don't waste time typing out `kubectl` in full -- just use your new `k` alias defined below, and please enable Tab auto-completion (of resource names); e.g., in your `~/.bashrc`:
 
 ```
-echo "source <(kubectl completion bash)" >> ~/.bashrc
 alias k=kubectl
+source <(kubectl completion bash)
 complete -F __start_kubectl k
-source ~/.bashrc
 ```
 
 Don't waste time typing out manifest files; e.g., use `k run --generator=run-pod/v1 --image=foo --dry-run -o=yaml > foo.yaml`, it's far quicker to modify an existing manifest.
