@@ -18,12 +18,12 @@ email: solitrestless@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technology musings...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://waynekhan.net"
+url: "https://waynekhan.github.io"
 github_username:  waynekhan
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-gist
