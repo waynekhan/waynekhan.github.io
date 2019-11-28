@@ -6,10 +6,9 @@ permalink: /about
 
 # About Wayne
 
-Elsewhere on the internet...
+Elsewhere on the internet:
 
 * <solitrestless@gmail.com>
-* [Docker Hub](https://hub.docker.com/u/waynekhan)
-* [GitHub](https://github.com/waynekhan)
-* [LinkedIn](https://www.linkedin.com/in/waynekhan)
-* [WordPress](https://kzhiwei.wordpress.com)
+* [GitHub](https://github.com/waynekhan/)
+* [LinkedIn](https://www.linkedin.com/in/waynekhan/)
+* [WordPress (deprecated)](https://kzhiwei.wordpress.com/)
