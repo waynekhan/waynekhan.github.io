@@ -15,6 +15,6 @@ Very quickly, I got a response that clued me to the problem. On our LDAP, we had
 
 This from [https://docs.gitlab.com/ee/administration/auth/ldap.html#security](https://docs.gitlab.com/ee/administration/auth/ldap.html#security).
 
-This experience gels with my experience with GitLab so far. The technical documentation is excellent, and generally, everything works. And now I can say that I interacted with their support, and it was a good experience, too.
+This gels with my experience with GitLab so far. The technical documentation is excellent, it just works. And now I can say that my personal support experience was similarly great.
 
 TLDR: Correcting the email attributes resolved the issue I faced, not a bug.
