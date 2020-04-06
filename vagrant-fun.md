@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Fun with Vagrant
+title: (Fun with) Vagrant
 permalink: /vagrant-fun
 ---
 
-## Fun with Vagrant
+## (Fun with) Vagrant
 
 Vagrant version:
 

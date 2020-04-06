@@ -16,5 +16,6 @@ Hello, thanks for visiting! You may want to check out some of my content (list b
 
 ## Pages
 
-* [Docker Cheatsheet](/docker-cheatsheet)
 * [About Wayne](/about-wayne)
+* [Docker Cheatsheet](/docker-cheatsheet)
+* [(Fun with) Vagrant](/vagrant-fun)
