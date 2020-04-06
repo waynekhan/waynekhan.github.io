@@ -3,7 +3,7 @@ layout: default
 title: Logging into GitLab using LDAP
 ---
 
-# Logging into GitLab using LDAP
+## Logging into GitLab using LDAP
 
 Recently, we deployed a GitLab instance, and my colleague discovered that when he logged in using our LDAP service account credentials, he ended up logging in as me; i.e., two different LDAP users with two pairs of usernames/passwords end up being the same user.
 

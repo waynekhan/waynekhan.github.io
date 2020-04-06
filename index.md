@@ -6,7 +6,7 @@ permalink: /
 
 Hello, thanks for visiting! You may want to check out some of my content (list below), or get an [RSS feed](/feed.xml) for your favourite reader.
 
-# Posts
+## Posts
 
 <ul>
   {% for post in site.posts %}
@@ -14,7 +14,7 @@ Hello, thanks for visiting! You may want to check out some of my content (list b
   {% endfor %}
 </ul>
 
-# Pages
+## Pages
 
 * [Docker Cheatsheet](/docker-cheatsheet)
-* [About Wayne](/about)
+* [About Wayne](/about-wayne)

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Happy New Year!
+title: Happy New Year
 ---
 
-# Happy New Year!
+## Happy New Year
 
 A new year, a new blog then!
 

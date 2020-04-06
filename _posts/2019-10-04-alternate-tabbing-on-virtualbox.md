@@ -3,7 +3,7 @@ layout: default
 title: Alternate tabbing on VirtualBox
 ---
 
-# Alternate tabbing on VirtualBox
+## Alternate tabbing on VirtualBox
 
 I've been a long-time VirtualBox user. Typically, I use Cygwin to SSH to my guest OS (e.g., Ubuntu) so there never was a problem with using using the Alt+Tab keyboard shortcut to switch between windows.
 

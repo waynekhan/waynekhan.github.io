@@ -3,7 +3,7 @@ layout: default
 title: Face ID and masks
 ---
 
-# Face ID and masks
+## Face ID and masks
 
 Face ID, as in the biometric mechanism I use to unlock my phone, a 2019 iPhone 11; mask, as in a single-use surgical mask one might use amidst COVID-19.
 

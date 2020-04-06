@@ -4,9 +4,9 @@ title: Fun with Vagrant
 permalink: /vagrant-fun
 ---
 
-# Fun with Vagrant
+## Fun with Vagrant
 
-## Vagrant 101
+### Vagrant 101
 
 Assuming [Vagrant](https://www.vagrantup.com/downloads.html) is installed and available on your host system:
 
@@ -22,13 +22,13 @@ This will create a `Vagrantfile` in the project directory, and should be committ
 Getting into your Ubuntu box (i.e., a VM):
 
 ```bash
-$ vagrant up
-$ vagrant ssh
+vagrant up
+vagrant ssh
 ```
 
 And there is `suspend`, `resume`, `halt <--force>`, `destroy` to manage its lifecycle, too.
 
-## Provisioning
+### Provisioning
 
 If defined, `vagrant up` will use the [configured provisioner](https://www.vagrantup.com/docs/provisioning/) to bootstrap your VM to its desired state; e.g.,
 

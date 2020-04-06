@@ -3,7 +3,7 @@ layout: default
 title: GitLab Docker In Docker (DinD) jobs no longer pass
 ---
 
-# GitLab Docker In Docker (DinD) jobs no longer pass
+## GitLab Docker In Docker (DinD) jobs no longer pass
 
 Recently I noticed that my CI/CD jobs keep failing with an error `Cannot connect to the Docker daemon at tcp://localhost:2375 Is the docker daemon running?`.
 
