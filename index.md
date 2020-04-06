@@ -16,6 +16,7 @@ Hello, thanks for visiting! You may want to check out some of my content (list b
 
 ## Pages
 
-* [About Wayne](/about-wayne)
-* [Docker Cheatsheet](/docker-cheatsheet)
-* [(Fun with) Vagrant](/vagrant-fun)
+- [About Wayne](/about-wayne)
+- [Docker Cheatsheet](/docker-cheatsheet)
+- [Dunning-Kruger effect](/dunning-kruger-effect)
+- [(Fun with) Vagrant](/vagrant-fun)
