@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-# About Wayne
-
 Elsewhere on the internet:
 
 * <solitrestless@gmail.com>
