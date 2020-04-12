@@ -22,7 +22,7 @@ url: "https://waynekhan.github.io/"
 github_username:  waynekhan
 
 # Build settings
-markdown: GFM
+markdown: kramdown
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
