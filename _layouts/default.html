@@ -1,35 +1,25 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
 
-{% seo %}
+<body>
+  <div class="wrapper">
+    <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+      <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+      {% if site.description %}
+        <p>{{ site.description }}</p>
+      {% endif %}
+    </header>
+    <section style="margin-top:0; padding-top:0;">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {{ content }}
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
-        {% if site.description %}
-          <p>{{ site.description }}</p>
-        {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-    </div>
-    <footer>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </body>
+    </section>
+  </div>
+</body>
 </html>
