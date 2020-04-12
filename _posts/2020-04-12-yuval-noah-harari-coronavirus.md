@@ -3,6 +3,7 @@ layout: default
 title: Yuval Noah Harari: the world after coronavirus
 ---
 
+
 ## Yuval Noah Harari: the world after coronavirus
 
 Prof. Yuval Noah Harari, an Israeli professor whom I discovered [wrote an article published on ft.com](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75).
