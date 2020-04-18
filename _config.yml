@@ -23,7 +23,7 @@ github_username:  waynekhan
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
