@@ -7,9 +7,9 @@ title: Maximizing GETGREAT star points (for KrisFlyer miles)
 
 [GETGREAT](https://www.greateasternlife.com/sg/en/mobile-apps/getgreat.html) is a platform to earn star points. Star points can be used to redeem KrisFlyer miles, among many other reedeemables.
 
-In my case, I use it on iOS in Singapore, and the objective is 1,000 star points a point (or 330 KrisFlyer miles). There are at least 3 features helpful to our endeavour:
+In my case, I use it on iOS in Singapore, and the objective is 1,000 star points (or 330 KrisFlyer miles). There are at least 3 features helpful to our endeavour:
 
-### 1. FitAge rewards
+### 1. FitAge
 
 FitAge can range from +3 (bad) to -3 (good) years relative to your actual age. Stars here are earned on a _daily_ basis:
 
@@ -17,7 +17,7 @@ FitAge can range from +3 (bad) to -3 (good) years relative to your actual age. S
 |----------|---|---|---|
 |Stars     |1  | 2 | 3 |
 
-### 2. Daily Great Walkathon rewards
+### 2. Daily Great Walkathon
 
 Walking from 6k (good) to 15k (best) steps earns stars:
 
@@ -35,7 +35,7 @@ At this point, I'd like to introduce experience points, which in sufficient quan
 
 Experience and stars here are earned on a _daily_ basis.
 
-### 3. 7-Day Program rewards
+### 3. 7-Day Program
 
 7-Day Programs are rated in terms of sweat droplets, which I'll term as intensity (1 to 3). Experience here is earned on a _weekly_ basis:
 
