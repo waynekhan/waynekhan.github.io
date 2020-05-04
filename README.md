@@ -8,19 +8,16 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 ## Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-      <div>{{ post.text }}</div>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+
+* [{{ post.title }]({% post_url {{ post.title }} %})
+
+{% endfor %}
 
 ## Pages
 
-- [About Wayne](/about-wayne.html)
-- [Docker Cheatsheet](/docker-cheatsheet.html)
-- [Dunning-Kruger effect](/dunning-kruger-effect.html)
-- [(Fun with) Vagrant](/vagrant-fun.html)
-- [(What are questions?](/what-are-questions.html)
+{% for page in site.pages %}
+
+* [{{ page.title }]({% post_url {{ post.title }} %})
+
+{% endfor %}
