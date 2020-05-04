@@ -9,11 +9,11 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 ## Posts
 
 {% for post in site.posts %}
-  * [{{ post.title }}]({{ post.url }})
+  [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ## Pages
 
 {% for page in site.pages %}
-  * [{{ page.title }}]({{ page.url }})
+  [{{ page.title }}]({{ page.url }})
 {% endfor %}
