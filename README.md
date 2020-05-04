@@ -10,7 +10,7 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 {% for post in site.posts %}
 
-* [{{ post.title }]({% post_url {{ post.title }} %})
+* [{{ post.title }}]({% post_url {{ post.title }} %})
 
 {% endfor %}
 
@@ -18,6 +18,6 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 {% for page in site.pages %}
 
-* [{{ page.title }]({% post_url {{ post.title }} %})
+* [{{ page.title }}]({% post_url {{ post.title }} %})
 
 {% endfor %}
