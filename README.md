@@ -10,7 +10,7 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 {% for post in site.posts %}
 
-* [{{ post.url }}]({{ post.title }})
+* [{{ post.title }}]({{ post.url }})
 
 {% endfor %}
 
