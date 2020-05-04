@@ -14,8 +14,6 @@ Hello, thanks for visiting! You may want to check out some of my content, or [ge
 
 ## Pages
 
-* [About Wayne](/about-wayne.html)
-* [Docker Cheatsheet](/docker-cheatsheet.html)
-* [Dunning-Kruger effect](/dunning-kruger-effect.html)
-* [(Fun with) Vagrant](/vagrant-fun.html)
-* [(What are questions?](/what-are-questions.html)
+{% for page in site.pages %}
+  * [{{ page.title }}]({{ page.url }})
+{% endfor %}
