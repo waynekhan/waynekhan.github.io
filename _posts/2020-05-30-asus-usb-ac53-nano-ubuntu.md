@@ -18,11 +18,11 @@ Bus 005 Device 002: ID 0b05:184c ASUSTek Computer, Inc. 802.11ac NIC
 
 I searched for the device ID (`0b05:184c`), and managed to successfully build and install the driver on `5.4.0-33-generic`.
 
-The following thread was most helpful, albeit slightly updated:
+The following thread was most helpful, albeit slightly outdated:
 
 * [https://askubuntu.com/questions/1079377/how-do-i-install-drivers-for-realtek-rtl8812bu](https://askubuntu.com/questions/1079377/how-do-i-install-drivers-for-realtek-rtl8812bu)
 
-And of course, the repo itself:
+And of course, the repo (and author) itself:
 
 * [https://github.com/cilynx/rtl88x2bu](https://github.com/cilynx/rtl88x2bu)
 
