@@ -14,4 +14,6 @@ Yesterday marked the end of Circuit Breaker in Singapore; today I read about [an
 |Toilets|≥1 set of toilet, bathroom, sink and urinal: 15 beds|≥1 set of toilet, bathroom, sink to 5 beds
 |Sick bay and isolation facility|≥1 sick bay bed per 1,000 bed spaces. Additional isolation spaces (to be stood if needed) at 19 beds per 1,000 bed spaces|≥ 15 sick bay bed per 1,000 bedspaces. Additional isolation spaces (to be stood up if needed) at 10 beds per 1,000 residents
 
-For each row, the values in the rightmost column are a clear improvement. But it also underscores the plight of our migrant workers. I read [What dark secret is in the Singapore basement?](https://www.straitstimes.com/opinion/what-dark-secret-is-in-the-singapore-basement) by Han Fook Kwang back in 2015. The full article is well-worth a read: it's stuck with me since then, just like how I hope these pilot standards stick around.
+For each row, the values in the rightmost column are a clear improvement. But it also underscores the plight of our migrant workers.
+
+I read [What dark secret is in the Singapore basement?](https://www.straitstimes.com/opinion/what-dark-secret-is-in-the-singapore-basement) by Han Fook Kwang back in 2015. The full article is well-worth a read: it's stuck with me since then, just like how I hope these pilot standards stick around.
