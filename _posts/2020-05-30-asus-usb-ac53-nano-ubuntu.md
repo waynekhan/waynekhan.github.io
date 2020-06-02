@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Getting the ASUS USB-AC53 Nano to work on Ubuntu 20.04
+title: Getting an ASUS USB-AC53 Nano working on Ubuntu 20.04
 ---
 
-## Getting the ASUS USB-AC53 Nano to work on Ubuntu 20.04
+## Getting an ASUS USB-AC53 Nano working on Ubuntu 20.04
 
 I recently [built a PC for myself](https://waynekhan.github.io/2020/05/19/pc-builder.html), but refused to pay the $200 or so to get a Windows 10 Pro license.
 
