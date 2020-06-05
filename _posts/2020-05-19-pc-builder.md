@@ -35,7 +35,7 @@ For my own, my cost was actually $1279.51. However, I added $201 (i.e., **$1480.
 |Motherboard                 |**MSI B450M MORTAR MAX**                                |$180.00                     |
 |Memory                      |**Corsair VENGEANCE PRO 32GB (2x16GB) DDR4-3200MHZ**    |$252.00                     |
 |Graphics Card               |MSI GTX 1650 SUPER VENTUS XS OC 4GB                     |$259.00                     |
-|Primary SSD                 Samsung SSD 970 EVO Plus (500 GB)                        |$199.00                     |
+|Primary SSD                 |Samsung SSD 970 EVO Plus (500 GB)                       |$199.00                     |
 |Power Supply                |**Corsair VS650 80 PLUS**                               |$92.00                      |
 |Operating System            |Microsoft Windows 10 Pro 64-bit                         |$201.00                     |
 |Chassis Fans Upgrade        |**Not available**                                       |$0                          |
