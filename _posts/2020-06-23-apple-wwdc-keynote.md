@@ -44,7 +44,7 @@ tl;dr: Apple saved their big ARM macOS announcement for the end, dwarfing the re
 1. Latest version of Catalyst seems much improved; e.g., Maps for macOS.
 1. Safari, 50% faster than Chrome?
 
-# ARM-based SoCs transition
+### ARM-based SoCs transition
 
 1. Specifically built for Macs.
 1. All of Apple's own apps have already been ARMed.
