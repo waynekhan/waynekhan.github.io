@@ -13,6 +13,6 @@ Oh, and it can be installed using `sudo snap install pdftk`, pretty handy if you
 
 So the highest rated answer was good, but I wanted to combine multiple page ranges of my big PDF file. Following is what I used successfully to extract 3 separate page ranges of `foo.pdf` (as `bar.pdf`):
 
-```shell
-# pdfk cat foo.pdf 39-43 46-47 50 output bar.pdf
+```bash
+$ pdfk cat foo.pdf 39-43 46-47 50 output bar.pdf
 ```
