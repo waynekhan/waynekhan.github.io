@@ -9,7 +9,7 @@ YouTube video page: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.yo
 
 ### HomePod Mini
 
-![HomePod Mini | Apple]({{ site.url }}/assets/homepod-mini.png)
+![HomePod Mini]({{ site.url }}/assets/homepod-mini.png)
 
 1. Amazing sound, but I can't describe it with any technical depth.
 1. [S5 processor](https://en.wikipedia.org/wiki/Apple-designed_processors#Apple_S5), the same one used in Watch Series 5 and SE, for "computation audio"; e.g., optimize loudness, adjust dynamic range, and control the movement of its own internals.
@@ -23,7 +23,7 @@ YouTube video page: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.yo
 
 ### iPhone 12
 
-![iPhone 12 | Apple]({{ site.url }}/assets/iphone-12.png)
+![iPhone 12]({{ site.url }}/assets/iphone-12.png)
 
 1. [5G cellular connectivity](https://en.wikipedia.org/wiki/5G).
 1. New design with flat sides, and in 5 colours (black, white, red, green, blue).
@@ -32,7 +32,7 @@ YouTube video page: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.yo
 1. "Ceramic Shield", 4x better drop performance.
 1. "Smart Data Mode": step up/down between LTE/5G.
 
-![A14 Bionic | Apple]({{ site.url }}/assets/a14-bionic.png)
+![A14 Bionic]({{ site.url }}/assets/a14-bionic.png)
 
 1. [A14 Bionic processor](https://en.wikipedia.org/wiki/Apple-designed_processors#Apple_A14_Bionic): 6-core CPU, 4-core GPU, 16-core "Neural Engine".
 1. Dual-camera system: ultra wide, and wide lenses.
@@ -50,7 +50,7 @@ YouTube video page: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.yo
 
 ### iPhone 12 Pro
 
-![iPhone 12 Pro | Apple]({{ site.url }}/assets/iphone-12-pro.png)
+![iPhone 12 Pro]({{ site.url }}/assets/iphone-12-pro.png)
 
 1. Surgical-grade stainless steel for the bands.
 1. 4 colours (silver, graphite, gold, blue).
@@ -69,4 +69,4 @@ YouTube video page: [https://www.youtube.com/watch?v=KR0g-1hnQPA](https://www.yo
 1. LiDAR scanner for AR, autofocus accuracy and reduced capture time. [Ed: It might even improve Portrait shots, too.]
 1. Starting from USD 1099.
 
-![iPhones 2020 pricing | Apple]({{ site.url }}/assets/iphones-2020-pricing.png)
+![iPhones 2020 pricing]({{ site.url }}/assets/iphones-2020-pricing.png)
