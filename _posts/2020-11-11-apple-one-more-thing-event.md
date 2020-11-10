@@ -31,9 +31,7 @@ MacBook Air, now fanless, incredible battery life, from $999.
 
 ![MacBook Air]({{ site.url }}/assets/macbook-air-overview.png)
 
-Mac Mini: from $699.
-
-![MacBook Mini]({{ site.url }}/assets/mac-mini-overview.png)
+Mac Mini, from $699.
 
 13" MacBook Pro, from $1299:
 
