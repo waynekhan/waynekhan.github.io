@@ -27,12 +27,12 @@ On security:
 
 Universal App: x86_64 and arm64 binaries in a single `.app/`, falling back to use Rosetta 2 if there is no compatible binary.
 
-MacBook Air, now fanless, incredible battery life, from $999.
+MacBook Air, now fanless, incredible battery life, from SGD 1449.
 
 ![MacBook Air]({{ site.url }}/assets/macbook-air-overview.png)
 
-Mac Mini, from $699.
+Mac Mini, from SGD 979.
 
-13" MacBook Pro, from $1299:
+13" MacBook Pro, from SGD 1849:
 
 ![MacBook Pro]({{ site.url }}/assets/macbook-pro-overview.png)
