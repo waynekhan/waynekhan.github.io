@@ -11,7 +11,7 @@ Instead, I've I've been using Ubuntu 20.04 as my daily driver and it's worked we
 
 So what is it, anyway?
 
-```bash
+```text
 $ lsusb | grep -i asus
 Bus 005 Device 002: ID 0b05:184c ASUSTek Computer, Inc. 802.11ac NIC
 ```
@@ -28,7 +28,7 @@ And of course, the repo (and author) itself:
 
 And as a note-to-self:
 
-```bash
+```text
 sudo apt-get update
 sudo apt-get install build-essential dkms git
 git clone https://github.com/cilynx/rtl88x2bu
@@ -40,3 +40,4 @@ sudo dkms build -m rtl88x2bu -v ${VER}
 sudo dkms install -m rtl88x2bu -v ${VER}
 sudo modprobe 88x2bu
 ```
+

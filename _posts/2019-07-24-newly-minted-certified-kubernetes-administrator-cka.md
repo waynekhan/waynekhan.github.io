@@ -28,7 +28,7 @@ The [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernete
 
 Don't waste time typing out `kubectl` in full -- just use your new `k` alias defined below, and please enable Tab auto-completion (of resource names); e.g., in your `~/.bashrc`:
 
-```bash
+```text
 alias k=kubectl
 source <(kubectl completion bash)
 complete -F __start_kubectl k
@@ -57,3 +57,4 @@ Carefully inspect the output of `systemctl status kubelet`. If you're seeing a `
 - [https://training.linuxfoundation.org/training/kubernetes-fundamentals/](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
 - [https://www.manning.com/books/kubernetes-in-action](https://www.manning.com/books/kubernetes-in-action)
 - [http://shop.oreilly.com/product/0636920064947.do](http://shop.oreilly.com/product/0636920064947.do)
+

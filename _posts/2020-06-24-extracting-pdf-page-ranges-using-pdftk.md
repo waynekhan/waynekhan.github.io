@@ -11,6 +11,7 @@ I needed to extract parts of a big PDF file today, learned about the existence o
 
 Conveniently, it can be installed using `sudo snap install pdftk`. I wanted to combine multiple page ranges of my big PDF file, so a note-to-self then:
 
-```bash
+```text
 $ pdftk foo.pdf cat 39-43 46-47 50 output bar.pdf
 ```
+

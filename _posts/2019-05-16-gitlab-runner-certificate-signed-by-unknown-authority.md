@@ -9,7 +9,7 @@ Recently I've been working w/ [runners](https://docs.gitlab.com/runner/), starti
 
 Anyway, my GitLab instance uses a self-signed certificate. This is not great as our tooling essentially needs to work around errors like this:
 
-```bash
+```text
 ERROR: Registering runner... failed                 runner=EfnphyLc status=couldn't execute POST against https://example.com/api/v4/runners: Post https://example.com/api/v4/runners: x509: certificate signed by unknown authority
 PANIC: Failed to register this runner. Perhaps you are having network problems
 ```
@@ -38,3 +38,4 @@ check_interval = 0
 ```
 
 Check out [https://gitlab.com/gitlab-org/gitlab-runner/issues/2795](https://gitlab.com/gitlab-org/gitlab-runner/issues/2795) for more details.
+
