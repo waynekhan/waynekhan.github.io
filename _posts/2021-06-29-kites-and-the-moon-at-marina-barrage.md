@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2020~2021 
+title: Kites (and the moon) at Marina Barrage
 ---
 
 ## Kites (and the moon) at Marina Barrage
