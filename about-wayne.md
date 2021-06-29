@@ -9,4 +9,5 @@ permalink: /about-wayne
 Elsewhere on the 'net:
 
 * <solitrestless@gmail.com>
-* [GitHub](https://github.com/waynekhan/)
+* [github.com/waynekhan](https://github.com/waynekhan)
+* [www.linkedin.com/in/waynekhan/](https://www.linkedin.com/in/waynekhan/)
