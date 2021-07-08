@@ -19,7 +19,7 @@ Here's an except of the response (from [do-not-reply@safetravel.sg](mailto:do-no
 >
 > 5. We seek your understanding and cooperation for such measures to enable pass holders to enter in a safe and calibrated manner, mitigate the risk of COVID-19 importation and avoid overburdening our public health system. **You may try and apply for a later date. If you are unable to get a date, please try again the following week.**
 
-Similar wordings [exists in a public FAQ](https://safetravel.ica.gov.sg/faq/tech) and elsewhere online, so it was disappointing to read a mostly rehashed, standard response. Here's what we learned, though:
+Similar wordings [exists in a public FAQ](https://safetravel.ica.gov.sg/faq/tech) and elsewhere, so it was disappointing to read a mostly rehashed, standard response. Here's what we learned, though:
 
 1. Our new helper, currently residing in Indonesia, is blocked from entering Singapore indefinitely, and
 2. Even if she were currently in Australia, it's fastest fingers first, rather than a systematic, first-come, first-served basis. How about, say, the date of in-principle approvals?!?
