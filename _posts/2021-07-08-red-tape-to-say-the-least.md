@@ -42,4 +42,4 @@ Our incumbent helper, S, has been with us for almost 3 years, overlapping with t
 
 S has expressed her desire to return home, to reunite with her family. [Ed: Hence the new helper.]
 
-S's (and her family's) plans have been stuck in limbo. We share her frustration.
+She has graciously opted to continue her service in this interim, but her (and her family's) plans have been stuck in limbo. We share her frustration.
