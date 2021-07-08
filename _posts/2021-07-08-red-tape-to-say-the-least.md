@@ -13,7 +13,7 @@ Here's an except of the response (from [do-not-reply@safetravel.sg](mailto:do-no
 
 > We refer to your email on 30 Jun 2021.
 >
-> 2. In light of the still uncertain global COVID-19 situation remains dynamic, **we are as yet unable to advise on the availability of an entry date due** to the global COVID-19 situation.
+> 2. In light of the still uncertain global COVID-19 situation remains dynamic, **we are as yet unable to advise on the availability of an entry date** due to the global COVID-19 situation.
 > 
 > 3. **New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are no longer accepted.**
 >
